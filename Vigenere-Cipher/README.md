@@ -1,6 +1,10 @@
 # Tugas Praktikum Kriptografi - Pertemuan 3
 
-Repositori ini dibuat untuk memenuhi tugas mata kuliah Praktikum Kriptografi.
+**Nama:** GABRIELLA MARIE KEIRA WIBAWA  
+**NPM:** 140810240086  
+**Kelas:** Praktikum Kriptografi 2026  
+
+---
 
 ## Struktur Direktori
 - `Vigenere-Cipher/vigenerecipher.py`: Source code program enkripsi dan dekripsi menggunakan metode Vigenere Cipher.
